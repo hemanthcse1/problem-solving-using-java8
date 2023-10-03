@@ -8,6 +8,7 @@ public class ProblemSolvingUsingJava8Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ProblemSolvingUsingJava8Application.class, args);
+		System.out.println("Hello problem solving using java 8");
 	}
 
 }
